@@ -13,7 +13,7 @@
 }
 
 body{
-  bakcground-color: var(--light);
+  background-color: var(--light);
 }
 
 .App{
@@ -55,4 +55,8 @@ button{
   padding: 16px;
   cursor: pointer;
   transition: 0.4s;
+}
+
+button:hover{
+  opacity: 0.9%;
 }
